@@ -5,5 +5,5 @@
 3. 藉由State Pattern：做一個 checklist 方式，做一個技能與需求的mapping。
 
 reference: 
-1. “Design Patterns by Tutorials", By Joshua Greene & Jay Strawn"
-2. “Hands-On Design Patterns with Swift”,Florent Vilmart
+1. "Design Patterns by Tutorials", Joshua Greene & Jay Strawn
+2. "Hands-On Design Patterns with Swift", Florent Vilmart
